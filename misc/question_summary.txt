@@ -1,0 +1,415 @@
+
+# GSS 2024 Ballot 2 – Questions and Response Options
+
+Below is a summary of selected questionnaire variables from the **GSS 2024 Ballot 2 (English)**.  
+For each indexing code, the corresponding question/statement and the available response options are listed.
+
+---
+
+## Gender‑roles and Family Questions
+
+### **fepol** – “Most men are better suited emotionally for politics than are most women”
+Respondents were asked whether they agree or disagree with the statement that most men are better suited emotionally for politics than most womenfile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEPOL%3A%20Categorical%20%28Single%29%20,or%20disagree%20with%20this%20statement.  
+**Answer options:**
+- **Agree**  
+- **Disagree**  
+- **Not sure**  
+- **Don’t know / No opinion**  
+- **Refused**  
+- **Not applicable**
+
+### **pillok** – Birth‑control availability to teens aged 14–16
+The survey asked whether birth‑control methods should be available to teenagers aged 14–16 even if their parents do not approvefile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=PILLOK%3A%20Categorical%20,their%20parents%20do%20not%20approve.  
+**Answer options:**
+- **Strongly agree**  
+- **Agree**  
+- **Disagree**  
+- **Strongly disagree**  
+- **Don’t know**  
+- **Refused**  
+- **Not applicable**
+
+### **spanking** – Discipline with a hard spanking
+Respondents were asked whether it is sometimes necessary to discipline a child with a good, hard spankingfile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=SPANKING%3A%20Categorical%20,with%20a%20good%2C%20hard%20spanking.  
+**Answer options:**
+- **Strongly agree**  
+- **Agree**  
+- **Disagree**  
+- **Strongly disagree**  
+- **Don’t know**  
+- **Refused**  
+- **Not applicable**
+
+### **fechld** – Working mothers and warmth toward children
+Participants rated agreement with the statement: “A working mother can establish just as warm a relationship with her children as a mother who does not work”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=Please%20read%20the%20following%20statements,strongly%20disagree%20with%20each%20statement.  
+**Answer options:**
+- **Strongly agree**  
+- **Agree**  
+- **Neither agree nor disagree**  
+- **Disagree**  
+- **Strongly disagree**  
+- **Not sure**  
+- **Don’t know / No opinion**  
+- **Refused**  
+- **Not applicable**
+
+### **fepresch** – Preschool‑child suffers if mother works
+Respondents rated agreement with the statement: “A preschool child is likely to suffer if his or her mother works”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEPRESCH%3A%20Categorical%20,strongly%20disagree%20with%20each%20statement.  
+**Answer options:**
+- **Strongly agree**  
+- **Agree**  
+- **Neither agree nor disagree**  
+- **Disagree**  
+- **Strongly disagree**  
+- **Not sure**  
+- **Don’t know / No opinion**  
+- **Refused**  
+- **Not applicable**
+
+### **fefam** – Traditional family roles
+This item asked whether respondents agree that “It is much better for everyone involved if the man is the achiever outside the home and the woman takes care of the home and family”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEFAM%3A%20Categorical%20,strongly%20disagree%20with%20each%20statement.  
+**Answer options:**
+- **Strongly agree**  
+- **Agree**  
+- **Neither agree nor disagree**  
+- **Disagree**  
+- **Strongly disagree**  
+- **Not sure**  
+- **Don’t know / No opinion**  
+- **Refused**  
+- **Not applicable**
+
+### **meovrwrk** – Family life suffers because men concentrate on work
+Respondents indicated agreement with the statement: “Family life often suffers because men concentrate too much on their work”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEFAM%3A%20Categorical%20,strongly%20disagree%20with%20each%20statement.  
+**Answer options:**
+- **Strongly agree**  
+- **Agree**  
+- **Neither agree nor disagree**  
+- **Disagree**  
+- **Strongly disagree**  
+- **Not sure**  
+- **Don’t know / No opinion**  
+- **Refused**  
+- **Not applicable**
+
+### **fehire** – Preferential hiring for women due to past discrimination
+The question asked whether employers should make special efforts to hire and promote qualified women in order to make up for past discriminationfile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **Strongly agree**  
+- **Agree**  
+- **Neither agree nor disagree**  
+- **Disagree**  
+- **Strongly disagree**  
+- **Don’t know**  
+- **Refused**  
+- **Not applicable**
+
+## Government Responsibility and Social Support
+
+### **helppoor** – Government help to improve poor Americans’ living standards
+This scale asked whether the federal government in Washington should do everything possible to improve the standard of living of all poor Americans (Point 1) or whether it is not the government’s responsibility and each person should take care of themselves (Point 5).  Respondents selected points 1–5 on the scale or opted for “don’t know”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **1 – strongly agree government should help**
+- **2**
+- **3 – agree with both positions**
+- **4**
+- **5 – strongly agree individuals should take care of themselves**
+- **Don’t know**
+- **Refused**
+- **Not applicable**
+
+### **helpnot** – Government doing too many things versus doing more
+Respondents considered whether the government is trying to do too many things that should be left to individuals and private businesses or whether the government should do more to solve the country’s problems.  They placed themselves on a five‑point scale similar to the previous itemfile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **1 – strongly agree government should do more**
+- **2**
+- **3 – agree with both positions**
+- **4**
+- **5 – strongly agree government is doing too much**
+- **Don’t know**
+- **Refused**
+- **Not applicable**
+
+### **helpsick** – Government responsibility for medical costs
+Participants positioned themselves on a scale regarding whether it is the federal government’s responsibility to help people pay doctors’ and hospital bills versus believing that individuals should take care of those expenses themselvesfile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **1 – strongly agree government should help pay medical bills**
+- **2**
+- **3 – agree with both positions**
+- **4**
+- **5 – strongly agree individuals should handle medical costs**
+- **Don’t know**
+- **Refused**
+- **Not applicable**
+
+### **helpblk** – Government obligation to help Black Americans
+This item asked whether the government has a special obligation to improve living standards of Black people because of past discrimination (Point 1) versus not giving special treatment to Black people (Point 5)file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **1 – strongly agree government is obligated to help Black people**
+- **2**
+- **3 – agree with both positions**
+- **4**
+- **5 – strongly agree government should not give special treatment**
+- **Don’t know**
+- **Refused**
+- **Not applicable**
+
+### **mhunsure** – Perceptions of unpredictability in mental‑health vignette
+After reading a vignette about a fictional person (SecF_NAME) with a mental‑health condition, respondents rated agreement with the statement: “People like [SecF_NAME] are unpredictable”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **Strongly agree**
+- **Agree**
+- **Disagree**
+- **Strongly disagree**
+- **Don’t know**
+- **Refused**
+- **Not applicable**
+
+### **poleff11** – Political efficacy: people like me don’t have any say
+Respondents indicated their agreement with the statement: “People like me don’t have any say about what the government does”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **Strongly agree**
+- **Agree**
+- **Neither agree nor disagree**
+- **Disagree**
+- **Strongly disagree**
+- **Can’t choose**
+- **Refused**
+- **Not applicable**
+
+### **poleff18** – Political efficacy: government doesn’t care
+This item asked to what extent respondents agree with the statement “I don’t think the government cares much what people like me think”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **Strongly agree**
+- **Agree**
+- **Neither agree nor disagree**
+- **Disagree**
+- **Strongly disagree**
+- **Can’t choose**
+- **Refused**
+- **Not applicable**
+
+### **goodlife** – Chance to improve standard of living
+Respondents were asked whether they agree with the statement that “people like me and my family have a good chance of improving our standard of living”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **Strongly agree**
+- **Agree**
+- **Neither agree nor disagree**
+- **Disagree**
+- **Strongly disagree**
+- **Don’t know**
+- **Refused**
+- **Not applicable**
+
+### **incgap1** – Government responsibility to reduce income gaps
+Participants were asked to what extent they agree that “It should be the government’s responsibility to reduce income differences between the rich and the poor”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **Strongly agree**
+- **Agree**
+- **Neither agree nor disagree**
+- **Disagree**
+- **Strongly disagree**
+- **Can’t choose**
+- **Refused**
+- **Not applicable**
+
+## Patriotism and National Identity
+
+### **amcitizn** – Would prefer to be a citizen of America
+Respondents indicated how strongly they agree with “I would rather be a citizen of America than of any other country in the world”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **Agree strongly**
+- **Agree**
+- **Neither agree nor disagree**
+- **Disagree**
+- **Disagree strongly**
+- **Can’t choose**
+- **Refused**
+- **Not applicable**
+
+### **amshamed** – Feeling ashamed of America
+This question asked respondents to agree or disagree with the statement: “There are some things about America today that make me feel ashamed of America”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** identical to **amcitizn** (agree strongly → disagree strongly, plus can’t choose, refused and not applicable).
+
+### **belikeus** – World better if others were more like Americans
+Participants rated agreement with “The world would be a better place if people from other countries were more like the Americans”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** same scale as **amcitizn**.
+
+### **ambetter** – America better than most other countries
+Respondents indicated agreement with “Generally speaking, America is a better country than most other countries”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** same scale as **amcitizn**.
+
+### **ifwrong** – Support your country even if it is wrong
+Participants rated agreement with the statement: “People should support their country even if the country is in the wrong”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** same scale as **amcitizn**.
+
+### **imports** – Limit import of foreign products
+Respondents considered whether America should limit the import of foreign products to protect its national economyfile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** agree strongly → disagree strongly, plus can’t choose, refused and not applicable.
+
+### **wrldgovt** – International bodies enforcing solutions
+This item asked whether for certain problems (like environmental pollution) international bodies should have the right to enforce solutionsfile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** agree strongly → disagree strongly, plus can’t choose, refused and not applicable.
+
+### **amownway** – America following its own interests
+Respondents rated agreement with “America should follow its own interests, even if this leads to conflicts with other nations”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** agree strongly → disagree strongly, plus can’t choose, refused and not applicable.
+
+### **forland** – Ban foreign ownership of land
+This statement asked whether “Foreigners should not be allowed to buy land in America”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** agree strongly → disagree strongly, plus can’t choose, refused and not applicable.
+
+### **amtv** – American TV should prefer domestic content
+Respondents indicated agreement with the statement that American television should give preference to American films and programsfile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** agree strongly → disagree strongly, plus can’t choose, refused and not applicable.
+
+### **intlincs** – Large international companies harming local businesses
+This item asked whether large international companies are doing more and more damage to local businesses in Americafile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** agree strongly → disagree strongly, plus can’t choose, refused and not applicable.
+
+### **immcrime1** (also covers **immcrime**) – Immigrants increase crime rates
+Respondents rated agreement with “Immigrants increase crime rates”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** agree strongly → disagree strongly, plus can’t choose, refused and not applicable.
+
+### **immameco** – Immigrants’ effect on the economy
+Participants indicated agreement with the statement: “Immigrants are generally good for America’s economy”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** agree strongly → disagree strongly, plus can’t choose, refused and not applicable.
+
+### **immjobs1** (also covers **immjobs**) – Immigrants take jobs away
+This item asked to what extent respondents agree with “Immigrants take jobs away from people who were born in America”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** agree strongly → disagree strongly, plus can’t choose, refused and not applicable.
+
+### **immideas1** – Immigrants improve society by bringing new ideas
+Respondents rated agreement with “Immigrants improve American society by bringing new ideas and cultures”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** agree strongly → disagree strongly, plus can’t choose, refused and not applicable.
+
+### **immwlfare** – Preferential treatment for people born in America
+This statement asked whether people born in America should be given preference over immigrants when it comes to jobs, housing or health carefile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** agree strongly → disagree strongly, plus can’t choose, refused and not applicable.
+
+## Technology and Internet
+
+### **intmeet** – Meeting online versus in person
+Respondents rated their agreement with the statement: “I feel more comfortable meeting with people online than in person”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **Strongly agree**
+- **Agree**
+- **Neither agree nor disagree**
+- **Disagree**
+- **Strongly disagree**
+- **Can’t choose**
+- **Refused**
+- **Not applicable**
+
+### **intlnly** – Loneliness without the Internet
+Participants indicated agreement with “Without the Internet I would feel lonely”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** same scale as **intmeet**.
+
+### **techesy** – Technology makes our lives easier
+Respondents rated agreement with the statement that technology (including machinery, equipment, digital devices and software) makes our lives easierfile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** strongly agree → strongly disagree, plus can’t choose, refused and not applicable.
+
+### **harmgood1** – Technology does more harm than good
+This item asked whether participants agree that, overall, technology does more harm than goodfile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** same as **techesy**.
+
+### **nextgen1** – Technology provides more opportunities for the next generation
+Respondents rated agreement with the statement that technology provides more opportunities for the next generationfile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** same as **techesy**.
+
+### **infodeal** – Trading personal data for discounts/free products
+Participants were told that private companies offer services in return for personal information (name, phone number, email, search history, purchases).  They rated agreement with the statement: “I would provide my personal information online in return for discounts and free products”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** strongly agree → strongly disagree, plus can’t choose, refused and not applicable.
+
+### **infoprofit** – Providing personal information even if companies profit
+In a similar context, respondents indicated whether they would provide personal information online even though private companies may use it to make a profitfile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** strongly agree → strongly disagree, plus can’t choose, refused and not applicable.
+
+## National Sovereignty and American Identity
+
+### **owndecns** – Nations having their own country to make decisions
+Participants considered the statement: “It would be best if every nation had its own country where it could make its own decisions”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **Agree strongly**
+- **Agree**
+- **Neither agree nor disagree**
+- **Disagree**
+- **Disagree strongly**
+- **Can’t choose**
+- **Refused**
+- **Not applicable**
+
+### **brneffrt** – Born versus effort in becoming truly American
+Respondents were asked to choose between two statements:  
+– **A:** It is possible to become truly American if a person makes an effort.  
+– **B:** A person has to be born American to be truly Americanfile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **Definitely agree with A**
+- **Agree more with A than with B**
+- **Agree more with B than with A**
+- **Definitely agree with B**
+- **Can’t choose**
+- **Refused**
+- **Not applicable**
+
+## Democracy, Politics and Media
+
+### **fulldem** – People versus politicians making policy decisions
+Respondents rated agreement with the statement: “The people, and not politicians, should make our most important policy decisions”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** strongly agree → strongly disagree, plus can’t choose, refused and not applicable.
+
+### **poltalk** – Politicians talk too much and take too little action
+Participants indicated agreement with the statement: “Politicians talk too much and take too little action”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** same as **fulldem**.
+
+### **conpow** – Conflict between ordinary people and those in power
+Respondents rated their agreement with “There is a conflict between the ordinary people and those in power in America”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** same as **fulldem**.
+
+### **bizmoney** – Business leaders make money at ordinary people’s expense
+The survey asked whether participants agree that business leaders make their money at the expense of ordinary peoplefile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** same as **fulldem**.
+
+### **experts** – Opinions of experts versus experiences of ordinary people
+Respondents rated agreement with “It is better to rely on the opinions of experts than the experiences of ordinary people”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** same as **fulldem**.
+
+### **biasnews** – Media coverage about politics is biased
+Participants indicated how much they agree with the statement: “Media coverage about politics in America is biased”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** strongly agree → strongly disagree, plus can’t choose, refused and not applicable.
+
+### **morextrm** – Mental‑health vignette: we are all a little like the person
+After reading the mental‑health vignette about [SecF_NAME], respondents rated agreement with: “Basically, we are all a little like [SecF_NAME]. In [SecF_NAME]’s case it is just a bit more extreme and ongoing”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **Strongly agree**
+- **Agree**
+- **Disagree**
+- **Strongly disagree**
+- **Don’t know**
+- **Refused**
+- **Not applicable**
+
+## HIV‑related Attitudes
+
+### **hivafraid** – Fear of infection around people with HIV
+Respondents indicated agreement with the statement: “I would be afraid to be around a person with HIV because I would be worried I could get infected”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:**
+- **Strongly disagree**
+- **Somewhat disagree**
+- **Somewhat agree**
+- **Strongly agree**
+- **Don’t know**
+- **Refused**
+- **Not applicable**
+
+### **hivimmrl** – HIV is associated with immoral activities
+This item asked participants to indicate agreement with “People who have HIV have participated in immoral activities”file:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** same as **hivafraid**.
+
+### **hivdscrm** – Discrimination against people with HIV
+Respondents were asked whether there is a lot of discrimination against people with HIV in the country todayfile:///home/oai/share/GSS2024_Ballot2_English.pdf#:~:text=FEHIRE%3A%20Categorical%20,disagree%2C%20or%20strongly%20disagree%20that.  
+**Answer options:** same as **hivafraid**.
+
+## Notes
+
+*Variables **fepolv**, **fepolnv**, **marsame** and **marsamey** were not found in the 2024 GSS Ballot 2 questionnaire file. These codes may refer to variables in other ballot forms or data files.*
